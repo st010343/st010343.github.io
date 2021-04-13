@@ -1,0 +1,131 @@
+body{
+    background:#bcefbc;
+}
+
+div.title{
+    width:953px;
+    height:120px;
+    background-color:#007700;
+    color:#ffffff;
+    font-size:75px;
+    font-weight:bold;
+    padding-top:20px;
+    padding-left:40px;
+    text-align:left;
+    margin-bottom:35px;
+}
+
+div.menu-top{
+    width:360px;
+    height:80px;
+    background-color:#44ee44;
+    color:#000000;
+    font-size:30px;
+    padding-top:40px;
+    padding-left:40px;
+    margin-bottom:10px;
+}
+
+div.menu-1{
+    width:360px;
+    height:80px;
+    background-color:#88ff88;
+    color:#000000;
+    font-size:25px;
+    padding-top:40px;
+    padding-left:40px;
+    margin-bottom:10px;
+}
+
+div.image-16_9{
+    width:480px;
+    height:270px;
+    color:#000000;
+    font-size:15px;
+    margin-bottom:10px;
+}
+
+div.image-auto{
+    width:0px auto;
+    height:0px auto;
+    color:#000000;
+    font-size:15px;
+    margin-bottom:10px;
+}
+
+.sentence-c_l{
+    width:480px;
+    height:0px auto;
+    background-color:#ddddff;
+    color:#000000;
+    font-size:15px;
+    text-align:left;
+    margin-bottom:40px;
+}
+
+.sentence-c_c{
+    width:480px;
+    height:0px auto;
+    background-color:#ddddff;
+    color:#000000;
+    font-size:15px;
+    text-align:center;
+    margin-bottom:40px;
+}
+
+.sentence-nc_l{
+    width:480px;
+    height:0px auto;
+    color:#000000;
+    font-size:15px;
+    text-align:left;
+    margin-bottom:40px;
+}
+
+.sentence-nc_c{
+    width:480px;
+    height:0px auto;
+    color:#000000;
+    font-size:15px;
+    text-align:center;
+    margin-bottom:40px;
+}
+
+.txt-red{
+    color:#ff0000;
+}
+
+div.footer{
+    width:975px;
+    height:55px;
+    background-color:#05af05;
+    color:#f9f9f9;
+    font-size:30px;
+    padding-top:15px;
+    padding-right:18px;
+    text-align:right;
+    margin-top:10px;
+}
+
+div.center{
+    width:1000px;
+    font-size:0;
+}
+
+div.menu-main{
+    display:inline-block;
+    vertical-align:top;
+    margin-left:35px;
+}
+
+div.contents{
+    display:inline-block;
+    vertical-align:top;
+    margin-left:40px;
+}
+
+div.all{
+    width:995px;
+    margin:0px auto;
+    background-color:#effeed
+}
