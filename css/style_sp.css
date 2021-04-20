@@ -20,11 +20,11 @@ div.title{
 
 
 /* MENU-ALL */
-div.menu-all{
+div.menu-main{
     width:950px;
     height:400px;
     vertical-align:top;
-    margin-bottom:145px;
+    margin-bottom:50px;
 }
 
 div.menu-top{
@@ -35,20 +35,20 @@ div.menu-top{
     font-size:30px;
     padding-top:20px;
     text-align:center;
-    margin-bottom:5px;
-    border:10px dotted #007700;
+    margin-bottom:10px;
+    border:10px solid #009900;
 }
 
 div.menu-1{
     width:930px;
     height:60px;
-    background-color:#88ff88;
+    background-color:#99ff99;
     color:#000000;
     font-size:30px;
     padding-top:20px;
     text-align:center;
-    margin-bottom:5px;
-    border:10px dotted #007700;
+    margin-bottom:10px;
+    border:10px solid #009900;
 }
 
 
@@ -58,7 +58,7 @@ div.menu-1{
     height:auto;
     background-color:#ddddff;
     color:#000000;
-    font-size:25px;
+    font-size:30px;
     text-align:left;
     margin-bottom:40px;
 }
@@ -68,7 +68,7 @@ div.menu-1{
     height:auto;
     background-color:#ddddff;
     color:#000000;
-    font-size:25px;
+    font-size:30px;
     text-align:center;
     margin-bottom:40px;
 }
@@ -77,7 +77,7 @@ div.menu-1{
     width:92%;
     height:auto;
     color:#000000;
-    font-size:25px;
+    font-size:30px;
     text-align:left;
     margin-bottom:40px;
 }
@@ -86,7 +86,7 @@ div.menu-1{
     width:100%;
     height:auto;
     color:#000000;
-    font-size:25px;
+    font-size:30px;
     text-align:center;
     margin-bottom:40px;
 }
@@ -98,13 +98,13 @@ div.menu-1{
 
 /* 見出し */
 h1{
-    font-size:50px;
+    font-size:55px;
 }
 h2{
-    font-size:40px;
+    font-size:45px;
 }
 h3{
-    font-size:30px;
+    font-size:35px;
 }
 
 /* 画像 */
@@ -129,7 +129,7 @@ img{
 /* フッター */
 div.footer{
     width:935px;
-    height:45px;
+    height:40px;
     background-color:#05af05;
     color:#f9f9f9;
     font-size:25px;
@@ -159,6 +159,6 @@ div.contents{
 /* 全体 */
 div.all{
     width:950px;
-    margin:0px auto;
+    margin:auto;
     background-color:#effeed;
 }

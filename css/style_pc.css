@@ -28,32 +28,34 @@ div.menu-main{
 }
 
 div.menu-top{
-    width:240px;
+    width:230px;
     height:40px;
     background-color:#44ee44;
     color:#000000;
     font-size:15px;
     padding-top:20px;
-    padding-left:10px;
+    padding-left:15px;
     margin-bottom:10px;
+    border:5px solid #009900;
 }
 
 div.menu-1{
-    width:240px;
+    width:230px;
     height:40px;
-    background-color:#88ff88;
+    background-color:#99ff99;
     color:#000000;
     font-size:15px;
     padding-top:20px;
-    padding-left:10px;
+    padding-left:15px;
     margin-bottom:10px;
+    border:5px solid #009900;
 }
 
 
 /* 文章ボックス */
 .sentence-c_l{
     width:83%;
-    height:0px auto;
+    height:auto;
     background-color:#ddddff;
     color:#000000;
     font-size:15px;
@@ -63,7 +65,7 @@ div.menu-1{
 
 .sentence-c_c{
     width:83%;
-    height:0px auto;
+    height:auto;
     background-color:#ddddff;
     color:#000000;
     font-size:15px;
@@ -73,7 +75,7 @@ div.menu-1{
 
 .sentence-nc_l{
     width:83%;
-    height:0px auto;
+    height:auto;
     color:#000000;
     font-size:15px;
     text-align:left;
@@ -82,7 +84,7 @@ div.menu-1{
 
 .sentence-nc_c{
     width:100%;
-    height:0px auto;
+    height:auto;
     color:#000000;
     font-size:15px;
     text-align:center;
@@ -120,6 +122,7 @@ div.footer{
     height:30px;
     background-color:#05af05;
     color:#f9f9f9;
+    font-size:15px;
     padding-top:10px;
     padding-right:10px;
     text-align:right;
@@ -146,6 +149,6 @@ div.contents{
 /* 全体 */
 div.all{
     width:1000px;
-    margin:0px auto;
+    margin:auto;
     background-color:#effeed
 }
