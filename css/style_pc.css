@@ -1,7 +1,10 @@
+/* 基幹 */
 body{
     background:#bcefbc;
 }
 
+
+/* ヘッダー */
 div.title{
     width:965px;
     height:95px;
@@ -13,6 +16,15 @@ div.title{
     padding-left:35px;
     text-align:left;
     margin-bottom:30px;
+}
+
+
+/* MENU */
+div.menu-main{
+    width:240px;
+    display:inline-block;
+    vertical-align:top;
+    margin-left:100px;
 }
 
 div.menu-top{
@@ -37,24 +49,10 @@ div.menu-1{
     margin-bottom:10px;
 }
 
-div.image-16_9{
-    width:480px;
-    height:270px;
-    color:#000000;
-    font-size:15px;
-    margin-bottom:10px;
-}
 
-div.image-auto{
-    width:0px auto;
-    height:0px auto;
-    color:#000000;
-    font-size:15px;
-    margin-bottom:10px;
-}
-
+/* 文章ボックス */
 .sentence-c_l{
-    width:480px;
+    width:83%;
     height:0px auto;
     background-color:#ddddff;
     color:#000000;
@@ -64,7 +62,7 @@ div.image-auto{
 }
 
 .sentence-c_c{
-    width:480px;
+    width:83%;
     height:0px auto;
     background-color:#ddddff;
     color:#000000;
@@ -74,7 +72,7 @@ div.image-auto{
 }
 
 .sentence-nc_l{
-    width:480px;
+    width:83%;
     height:0px auto;
     color:#000000;
     font-size:15px;
@@ -83,7 +81,7 @@ div.image-auto{
 }
 
 .sentence-nc_c{
-    width:480px;
+    width:100%;
     height:0px auto;
     color:#000000;
     font-size:15px;
@@ -91,10 +89,32 @@ div.image-auto{
     margin-bottom:40px;
 }
 
+/* 部分赤 */
 .txt-red{
     color:#ff0000;
 }
 
+
+/* 画像 */
+img{
+    width:83%;
+}
+
+.sentence-c_c img{
+    width:100%;
+}
+.sentence-c_l img{
+    width:100%;
+}
+.sentence-nc_c img{
+    width:100%;
+}
+.sentence-nc_l img{
+    width:100%;
+}
+
+
+/* フッター */
 div.footer{
     width:990px;
     height:30px;
@@ -106,23 +126,24 @@ div.footer{
     margin-top:10px;
 }
 
+
+/* センター */
 div.center{
     width:1000px;
     font-size:0;
 }
 
-div.menu-main{
-    display:inline-block;
-    vertical-align:top;
-    margin-left:100px;
-}
 
+/* 内部コンテンツ */
 div.contents{
+    width:620px;
     display:inline-block;
     vertical-align:top;
-    margin-left:70px;
+    margin-left:40px;
 }
 
+
+/* 全体 */
 div.all{
     width:1000px;
     margin:0px auto;
