@@ -22,14 +22,14 @@ div.title{
 /* MENU-ALL */
 div.menu-main{
     width:950px;
-    height:400px;
+    height:405px;
     vertical-align:top;
     margin-bottom:50px;
 }
 
 div.menu-top{
     width:930px;
-    height:60px;
+    height:65px;
     background-color:#44ee44;
     color:#000000;
     font-size:30px;
@@ -41,7 +41,7 @@ div.menu-top{
 
 div.menu-1{
     width:930px;
-    height:60px;
+    height:65px;
     background-color:#99ff99;
     color:#000000;
     font-size:30px;
@@ -129,7 +129,7 @@ img{
 /* フッター */
 div.footer{
     width:935px;
-    height:40px;
+    height:45px;
     background-color:#05af05;
     color:#f9f9f9;
     font-size:25px;
