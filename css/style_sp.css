@@ -6,8 +6,8 @@ body{
 
 /* ヘッダー */
 div.title{
-    width:917px;
-    height:102px;
+    width:918px;
+    height:103px;
     background-color:#007700;
     color:#ffffff;
     font-size:60px;
@@ -21,15 +21,15 @@ div.title{
 
 /* MENU-ALL */
 div.menu-main{
-    width:952px;
-    height:412px;
+    width:953px;
+    height:413px;
     vertical-align:top;
     margin-bottom:50px;
 }
 
 div.menu-top{
-    width:932px;
-    height:62px;
+    width:933px;
+    height:66px;
     background-color:#44ee44;
     color:#000000;
     font-size:30px;
@@ -40,8 +40,8 @@ div.menu-top{
 }
 
 div.menu-1{
-    width:932px;
-    height:62px;
+    width:933px;
+    height:66px;
     background-color:#99ff99;
     color:#000000;
     font-size:30px;
@@ -128,8 +128,8 @@ img{
 
 /* フッター */
 div.footer{
-    width:937px;
-    height:47px;
+    width:938px;
+    height:48px;
     background-color:#05af05;
     color:#f9f9f9;
     font-size:25px;
@@ -142,7 +142,7 @@ div.footer{
 
 /* センター */
 div.center{
-    width:952px;
+    width:953px;
     font-size:0;
 }
 
@@ -158,7 +158,7 @@ div.contents{
 
 /* 全体 */
 div.all{
-    width:950px;
+    width:953px;
     margin:auto;
     background-color:#effeed;
 }
