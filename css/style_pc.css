@@ -1,11 +1,10 @@
-/* 基幹 */
+/* BODY */
 body{
     background:#bcefbc;
-    font-family:"Yu Gothic UI";
 }
 
 
-/* ヘッダー */
+/* TITLE */
 div.title{
     width:965px;
     height:95px;
@@ -28,38 +27,71 @@ div.menu-all{
     margin-left:100px;
 }
 
-div.menu-top{
+.menu-0{
     width:230px;
     height:40px;
+    display:inline-block;
+    vertical-align:top;
     background-color:#44ee44;
     color:#000000;
-    font-size:15px;
     padding-top:20px;
     padding-left:15px;
     margin-bottom:10px;
     border:5px solid #009900;
 }
-
-div.menu-1{
+.menu-0-sele{
     width:230px;
     height:40px;
+    display:inline-block;
+    vertical-align:top;
+    background-color:#44ee44;
+    color:#000000;
+    padding-top:20px;
+    padding-left:15px;
+    margin-bottom:10px;
+    border:5px solid #009900;
+}.menu-0-sele:hover{
+    cursor:pointer;
+    text-decoration:none;
+    background-color:#11bb11;
+}
+
+.menu-1{
+    width:230px;
+    height:40px;
+    display:inline-block;
+    vertical-align:top;
     background-color:#99ff99;
     color:#000000;
-    font-size:15px;
     padding-top:20px;
     padding-left:15px;
     margin-bottom:10px;
     border:5px solid #009900;
 }
+.menu-1-sele{
+    width:230px;
+    height:40px;
+    display:inline-block;
+    vertical-align:top;
+    background-color:#99ff99;
+    color:#000000;
+    padding-top:20px;
+    padding-left:15px;
+    margin-bottom:10px;
+    border:5px solid #009900;
+}.menu-1-sele:hover{
+    cursor:pointer;
+    text-decoration:none;
+    background-color:#66cc66;
+}
 
 
-/* 文章ボックス */
+/* SENTENCE */
 .sentence-c_l{
     width:100%;
     height:auto;
     background-color:#ddddff;
     color:#000000;
-    font-size:15px;
     text-align:left;
     margin-bottom:40px;
 }
@@ -69,7 +101,6 @@ div.menu-1{
     height:auto;
     background-color:#ddddff;
     color:#000000;
-    font-size:15px;
     text-align:center;
     margin-bottom:40px;
 }
@@ -78,7 +109,6 @@ div.menu-1{
     width:100%;
     height:auto;
     color:#000000;
-    font-size:15px;
     text-align:left;
     margin-bottom:40px;
 }
@@ -87,29 +117,47 @@ div.menu-1{
     width:100%;
     height:auto;
     color:#000000;
-    font-size:15px;
     text-align:center;
     margin-bottom:40px;
 }
 
-/* 部分赤 */
+/* TXT-RED */
 .txt-red{
     color:#ff0000;
 }
 
-/* 画像 */
+/* DEFAULT FONT */
+* h1{
+    font-size:34px;
+}
+* h2{
+    font-size:26px;
+}
+* h3{
+    font-size:18px;
+}
+* p{
+    font-size:16px;
+}
+* a{
+    font-size:16px;
+}
+* li{
+    font-size:16px;
+}
+
+/* IMG */
 img{
     width:100%;
 }
 
 
-/* フッター */
+/* FOOTER */
 div.footer{
     width:990px;
     height:30px;
     background-color:#05af05;
     color:#f9f9f9;
-    font-size:15px;
     padding-top:10px;
     padding-right:10px;
     text-align:right;
@@ -117,14 +165,14 @@ div.footer{
 }
 
 
-/* センター */
+/* CENTER */
 div.center{
     width:1000px;
     font-size:0;
 }
 
 
-/* 内部コンテンツ */
+/* CONTENTS */
 div.contents{
     width:525px;
     display:inline-block;
@@ -133,7 +181,7 @@ div.contents{
 }
 
 
-/* 全体 */
+/* ALL */
 div.all{
     width:1000px;
     margin:auto;
