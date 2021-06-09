@@ -7,7 +7,7 @@ body{
 /* TITLE */
 div.title{
     width:817px;
-    height:92px;
+    height:94px;
     background-color:#007700;
     color:#ffffff;
     font-size:56px;
@@ -29,11 +29,12 @@ div.menu-all{
 
 .menu-0{
     width:832px;
-    height:47px;
+    height:50px;
     display:inline-block;
     vertical-align:top;
     background-color:#44ee44;
     color:#000000;
+    text-decoration:none;
     padding-top:20px;
     text-align:center;
     margin-bottom:10px;
@@ -41,11 +42,12 @@ div.menu-all{
 }
 .menu-0-sele{
     width:832px;
-    height:47px;
+    height:50px;
     display:inline-block;
     vertical-align:top;
     background-color:#44ee44;
     color:#000000;
+    text-decoration:none;
     padding-top:20px;
     text-align:center;
     margin-bottom:10px;
@@ -58,11 +60,12 @@ div.menu-all{
 
 .menu-1{
     width:832px;
-    height:47px;
+    height:50px;
     display:inline-block;
     vertical-align:top;
     background-color:#99ff99;
     color:#000000;
+    text-decoration:none;
     padding-top:20px;
     text-align:center;
     margin-bottom:10px;
@@ -70,11 +73,12 @@ div.menu-all{
 }
 .menu-1-sele{
     width:832px;
-    height:47px;
+    height:50px;
     display:inline-block;
     vertical-align:top;
     background-color:#99ff99;
     color:#000000;
+    text-decoration:none;
     padding-top:20px;
     text-align:center;
     margin-bottom:10px;
@@ -155,9 +159,10 @@ img{
 /* FOOTER */
 div.footer{
     width:837px;
-    height:42px;
+    height:39px;
     background-color:#05af05;
     color:#f9f9f9;
+    font-size:22px;
     padding-top:10px;
     padding-right:15px;
     text-align:right;
