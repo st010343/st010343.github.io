@@ -22,14 +22,14 @@ div.title{
 /* MENU-ALL */
 div.menu-all{
     width:860px;
-    height:410px;
+    height:360px;
     vertical-align:top;
     margin-bottom:50px;
 }
 
 .menu-0{
     width:842px;
-    height:49px;
+    height:51px;
     display:inline-block;
     vertical-align:top;
     background-color:#44ee44;
@@ -41,7 +41,7 @@ div.menu-all{
 }
 .menu-0-sele{
     width:842px;
-    height:49px;
+    height:51px;
     display:inline-block;
     vertical-align:top;
     background-color:#44ee44;
@@ -58,7 +58,7 @@ div.menu-all{
 
 .menu-1{
     width:842px;
-    height:49px;
+    height:51px;
     display:inline-block;
     vertical-align:top;
     background-color:#99ff99;
@@ -70,7 +70,7 @@ div.menu-all{
 }
 .menu-1-sele{
     width:842px;
-    height:49px;
+    height:51px;
     display:inline-block;
     vertical-align:top;
     background-color:#99ff99;
@@ -153,7 +153,7 @@ img{
 /* FOOTER */
 div.footer{
     width:837px;
-    height:40px;
+    height:42px;
     background-color:#05af05;
     color:#f9f9f9;
     font-size:22px;
