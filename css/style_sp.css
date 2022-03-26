@@ -4,85 +4,111 @@ body{
 }
 
 
-/* TITLE */
-div.title{
-    width:817px;
-    height:94px;
+/* HEADER */
+header{
+    width:97%;
+    height:100%;
     background-color:#007700;
     color:#ffffff;
-    font-size:56px;
+    font-size:150%;
     font-weight:bold;
-    padding-top:15px;
-    padding-left:35px;
+    padding-top:1.5%;
+    padding-left:3%;
     text-align:left;
-    margin-bottom:30px;
+    margin-bottom:2%;
 }
 
 
-/* MENU-ALL */
-div.menu-all{
-    width:860px;
-    height:360px;
+/* NAV */
+nav{
+    width:98%;
+    height:auto;
     vertical-align:top;
-    margin-bottom:50px;
+    margin-bottom:5%;
 }
 
-.menu-0{
-    width:842px;
-    height:51px;
+nav a.menu-0{
+    width:100%;
+    height:auto;
     display:inline-block;
     vertical-align:top;
     background-color:#44ee44;
     color:#000000;
-    padding-top:20px;
+    padding-top:1.5%;
+    padding-bottom:1%;
     text-align:center;
-    margin-bottom:10px;
-    border:5px solid #009900;
+    margin-bottom:1%;
+    border:3px solid #009900;
 }
-.menu-0-sele{
-    width:842px;
-    height:51px;
+nav a.menu-0-sele{
+    width:100%;
+    height:auto;
     display:inline-block;
     vertical-align:top;
     background-color:#44ee44;
     color:#000000;
-    padding-top:20px;
+    padding-top:1.5%;
+    padding-bottom:1%;
     text-align:center;
-    margin-bottom:10px;
-    border:5px solid #009900;
-}.menu-0-sele:hover{
+    margin-bottom:1%;
+    border:3px solid #009900;
+}nav a.menu-0-sele:hover{
     cursor:pointer;
     text-decoration:none;
     background-color:#11bb11;
 }
 
-.menu-1{
-    width:842px;
-    height:51px;
+nav a.menu-1{
+    width:100%;
+    height:auto;
     display:inline-block;
     vertical-align:top;
     background-color:#99ff99;
     color:#000000;
-    padding-top:20px;
+    padding-top:1.5%;
+    padding-bottom:1%;
     text-align:center;
-    margin-bottom:10px;
-    border:5px solid #009900;
+    margin-bottom:1%;
+    border:3px solid #009900;
 }
-.menu-1-sele{
-    width:842px;
-    height:51px;
+nav a.menu-1-sele{
+    width:100%;
+    height:auto;
     display:inline-block;
     vertical-align:top;
     background-color:#99ff99;
     color:#000000;
-    padding-top:20px;
+    padding-top:1.5%;
+    padding-bottom:1%;
     text-align:center;
-    margin-bottom:10px;
-    border:5px solid #009900;
-}.menu-1-sele:hover{
+    margin-bottom:1%;
+    border:3px solid #009900;
+}nav a.menu-1-sele:hover{
     cursor:pointer;
     text-decoration:none;
     background-color:#66cc66;
+}
+
+
+/* MAIN */
+main{
+    display:inline-block;
+    vertical-align:top;
+}
+
+
+/* FOOTER */
+footer{
+    width:97%;
+    height:100%;
+    background-color:#05af05;
+    color:#f9f9f9;
+    font-size:16%;
+    padding-top:1.5%;
+    padding-bottom:1%;
+    padding-right:3%;
+    text-align:right;
+    margin-top:2%;
 }
 
 
@@ -93,7 +119,7 @@ div.menu-all{
     background-color:#ddddff;
     color:#000000;
     text-align:left;
-    margin-bottom:40px;
+    margin-bottom:4%;
 }
 .sentence-c_c{
     width:100%;
@@ -101,7 +127,7 @@ div.menu-all{
     background-color:#ddddff;
     color:#000000;
     text-align:center;
-    margin-bottom:40px;
+    margin-bottom:4%;
 }
 
 .sentence-nc_l{
@@ -109,14 +135,14 @@ div.menu-all{
     height:auto;
     color:#000000;
     text-align:left;
-    margin-bottom:40px;
+    margin-bottom:4%;
 }
 .sentence-nc_c{
     width:100%;
     height:auto;
     color:#000000;
     text-align:center;
-    margin-bottom:40px;
+    margin-bottom:4%;
 }
 
 /* TXT-RED */
@@ -126,22 +152,22 @@ div.menu-all{
 
 /* DEFAULT FONT */
 * h1{
-    font-size:43px;
+    font-size:124%;
 }
 * h2{
-    font-size:34px;
+    font-size:116%;
 }
 * h3{
-    font-size:25px;
+    font-size:108%;
 }
 * p{
-    font-size:22px;
+    font-size:16%;
 }
 * a{
-    font-size:22px;
+    font-size:16%;
 }
 * li{
-    font-size:22px;
+    font-size:16%;
 }
 
 /* IMG */
@@ -150,31 +176,16 @@ img{
 }
 
 
-/* FOOTER */
-div.footer{
-    width:837px;
-    height:42px;
-    background-color:#05af05;
-    color:#f9f9f9;
-    font-size:22px;
-    padding-top:10px;
-    padding-right:15px;
-    text-align:right;
-    margin-top:10px;
-}
-
 /* CONTENTS */
-div.contents{
-    width:787px;
-    display:inline-block;
-    vertical-align:top;
-    margin-left:30px;
+.contents{
+    width:90%;
+    margin-left:5%;
 }
 
 
 /* ALL */
 div.all{
-    width:852px;
+    width:100%;
     margin:auto;
     background-color:#effeed;
 }
