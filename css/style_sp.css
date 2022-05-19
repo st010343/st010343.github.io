@@ -4,13 +4,13 @@ body{ background:#bcefbc; }
 
 /* HEADER */
 header{
-    width:96.7%;
+    width:96.6%;
     height:100%;
     background-color:#007700;
     color:#ffffff;
-    font-size:4.8rem;
+    font-size:4.2rem;
     font-weight:bold;
-    padding-top:1.6rem;
+    padding-top:1.3rem;
     padding-bottom:0.6rem;
     padding-left:2.3rem;
     text-align:left;
@@ -22,7 +22,7 @@ header{
 nav { width:100%; height:auto; vertical-align:top; margin-bottom:0.8rem; }
 
 nav a.menu-0{
-    width:98.6%;
+    width:98.42%;
     height:auto;
     display:inline-block;
     vertical-align:top;
@@ -30,20 +30,20 @@ nav a.menu-0{
     color:#000000;
     font-weight:bold;
     padding-top:0.8rem;
-    padding-bottom:0.5rem;
+    padding-bottom:0.6rem;
     text-align:center;
     margin-bottom:0.8rem;
     border:0.5rem solid #009900;
 }
 nav a.menu-0-sele{
-    width:98.6%;
+    width:98.42%;
     height:auto;
     display:inline-block;
     vertical-align:top;
     background-color:#44ee44;
     color:#000000;
     padding-top:0.8rem;
-    padding-bottom:0.5rem;
+    padding-bottom:0.6rem;
     text-align:center;
     margin-bottom:0.8rem;
     border:0.5rem solid #009900;
@@ -54,7 +54,7 @@ nav a.menu-0-sele{
 }
 
 nav a.menu-1{
-    width:98.6%;
+    width:98.42%;
     height:auto;
     display:inline-block;
     vertical-align:top;
@@ -62,20 +62,20 @@ nav a.menu-1{
     color:#000000;
     font-weight:bold;
     padding-top:0.8rem;
-    padding-bottom:0.5rem;
+    padding-bottom:0.6rem;
     text-align:center;
     margin-bottom:0.8rem;
     border:0.5rem solid #009900;
 }
 nav a.menu-1-sele{
-    width:98.6%;
+    width:98.42%;
     height:auto;
     display:inline-block;
     vertical-align:top;
     background-color:#99ff99;
     color:#000000;
     padding-top:0.8rem;
-    padding-bottom:0.5rem;
+    padding-bottom:0.6rem;
     text-align:center;
     margin-bottom:0.8rem;
     border:0.5rem solid #009900;
@@ -92,7 +92,7 @@ main{ display:inline-block; vertical-align:top; }
 
 /* FOOTER */
 footer{
-    width:97.6%;
+    width:97.53%;
     height:100%;
     background-color:#05af05;
     color:#f9f9f9;
@@ -112,7 +112,7 @@ footer{
     background-color:#ddddff;
     color:#000000;
     text-align:left;
-    margin-bottom:5%;
+    margin-bottom:6.6%;
 }
 .sentence-c_c{
     width:100%;
@@ -120,7 +120,7 @@ footer{
     background-color:#ddddff;
     color:#000000;
     text-align:center;
-    margin-bottom:5%;
+    margin-bottom:6.6%;
 }
 
 .sentence-nc_l{
@@ -128,14 +128,14 @@ footer{
     height:auto;
     color:#000000;
     text-align:left;
-    margin-bottom:5%;
+    margin-bottom:6.6%;
 }
 .sentence-nc_c{
     width:100%;
     height:auto;
     color:#000000;
     text-align:center;
-    margin-bottom:5%;
+    margin-bottom:6.6%;
 }
 
 /* TXT-RED */

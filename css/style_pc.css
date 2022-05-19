@@ -8,13 +8,13 @@ header{
     height:100%;
     background-color:#007700;
     color:#ffffff;
-    font-size:6.0rem;
+    font-size:5.8rem;
     font-weight:bold;
     padding-top:1.8rem;
     padding-bottom:0.6rem;
     padding-left:3.0rem;
     text-align:left;
-    margin-bottom:2.2rem;
+    margin-bottom:2.0rem;
 }
 
 
@@ -30,10 +30,10 @@ nav a.menu-0{
     color:#000000;
     font-weight:bold;
     padding-top:1.8rem;
-    padding-bottom:1.6rem;
+    padding-bottom:1.5rem;
     padding-left:1.4rem;
     text-align:left;
-    margin-bottom:1.2rem;
+    margin-bottom:1.1rem;
     border:0.5rem solid #009900;
 }
 nav a.menu-0-sele{
@@ -44,10 +44,10 @@ nav a.menu-0-sele{
     background-color:#44ee44;
     color:#000000;
     padding-top:1.8rem;
-    padding-bottom:1.6rem;
+    padding-bottom:1.5rem;
     padding-left:1.4rem;
     text-align:left;
-    margin-bottom:1.2rem;
+    margin-bottom:1.1rem;
     border:0.5rem solid #009900;
 }nav a.menu-0-sele:hover{
     cursor:pointer;
@@ -64,10 +64,10 @@ nav a.menu-1{
     color:#000000;
     font-weight:bold;
     padding-top:1.8rem;
-    padding-bottom:1.6rem;
+    padding-bottom:1.5rem;
     padding-left:1.4rem;
     text-align:left;
-    margin-bottom:1.2rem;
+    margin-bottom:1.1rem;
     border:0.5rem solid #009900;
 }
 nav a.menu-1-sele{
@@ -78,10 +78,10 @@ nav a.menu-1-sele{
     background-color:#99ff99;
     color:#000000;
     padding-top:1.8rem;
-    padding-bottom:1.6rem;
+    padding-bottom:1.5rem;
     padding-left:1.4rem;
     text-align:left;
-    margin-bottom:1.2rem;
+    margin-bottom:1.1rem;
     border:0.5rem solid #009900;
 }nav a.menu-1-sele:hover{
     cursor:pointer;
@@ -116,7 +116,7 @@ footer{
     background-color:#ddddff;
     color:#000000;
     text-align:left;
-    margin-bottom:7%;
+    margin-bottom:6.6%;
 }
 .sentence-c_c{
     width:100%;
@@ -124,7 +124,7 @@ footer{
     background-color:#ddddff;
     color:#000000;
     text-align:center;
-    margin-bottom:7%;
+    margin-bottom:6.6%;
 }
 
 .sentence-nc_l{
@@ -132,14 +132,14 @@ footer{
     height:auto;
     color:#000000;
     text-align:left;
-    margin-bottom:7%;
+    margin-bottom:6.6%;
 }
 .sentence-nc_c{
     width:100%;
     height:auto;
     color:#000000;
     text-align:center;
-    margin-bottom:7%;
+    margin-bottom:6.6%;
 }
 
 /* TXT-RED */
