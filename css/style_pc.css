@@ -142,8 +142,12 @@ footer{
     margin-bottom:6.6%;
 }
 
-/* TXT-RED */
+/* TXT-RED DEFAULT COLOR */
 .txt-red{ color:#ff0000; }
+/* TXT-BLUE DEFAULT COLOR */
+.txt-blue{ color:#0000ff; }
+/* TXT-GREEN DEFAULT COLOR */
+.txt-green{ color:#00ff00; }
 
 /* DEFAULT FONT-SIZE */
 html{ font-size:62.5%; font-family:sans-serif; }

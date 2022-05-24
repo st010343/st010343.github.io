@@ -4,22 +4,22 @@ body{ background:#bcefbc; }
 
 /* HEADER */
 header{
-    width:96.6%;
+    width:96.54%;
     height:100%;
     background-color:#007700;
     color:#ffffff;
     font-size:4.2rem;
     font-weight:bold;
-    padding-top:1.3rem;
+    padding-top:1.2rem;
     padding-bottom:0.6rem;
-    padding-left:2.3rem;
+    padding-left:2.2rem;
     text-align:left;
-    margin-bottom:2.3rem;
+    margin-bottom:2.1rem;
 }
 
 
 /* NAV */
-nav { width:100%; height:auto; vertical-align:top; margin-bottom:0.8rem; }
+nav { width:100%; height:auto; vertical-align:top; margin-bottom:2.2%; }
 
 nav a.menu-0{
     width:98.42%;
@@ -98,7 +98,7 @@ footer{
     color:#f9f9f9;
     font-size:1.6rem;
     padding-top:0.8rem;
-    padding-bottom:0.8rem;
+    padding-bottom:0.6rem;
     padding-right:1.6rem;
     text-align:right;
     margin-top:2.3rem;
@@ -138,8 +138,12 @@ footer{
     margin-bottom:6.6%;
 }
 
-/* TXT-RED */
+/* TXT-RED DEFAULT COLOR */
 .txt-red{ color:#ff0000; }
+/* TXT-BLUE DEFAULT COLOR */
+.txt-blue{ color:#0000ff; }
+/* TXT-GREEN DEFAULT COLOR */
+.txt-green{ color:#00ff00; }
 
 /* DEFAULT FONT-SIZE */
 html{ font-size:33.3%; font-family:sans-serif; }
