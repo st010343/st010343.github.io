@@ -4,7 +4,7 @@ body{ background:#bcefbc; }
 
 /* HEADER */
 header{
-    width:97.5%;
+    width:97.2%;
     height:100%;
     background-color:#007700;
     color:#ffffff;
@@ -12,7 +12,7 @@ header{
     font-weight:bold;
     padding-top:2.2%;
     padding-bottom:1.4%;
-    padding-left:2.4%;
+    padding-left:2.7%;
     text-align:left;
     margin-bottom:3.3%;
 }
@@ -22,7 +22,7 @@ header{
 nav{ width:100%; height:auto; vertical-align:top; margin-bottom:2.2%; }
 
 nav a.menu-0{
-    width:98.34%;
+    width:98.35%;
     height:auto;
     display:inline-block;
     vertical-align:top;
@@ -36,7 +36,7 @@ nav a.menu-0{
     border:0.5rem solid #009900;
 }
 nav a.menu-0-sele{
-    width:98.34%;
+    width:98.35%;
     height:auto;
     display:inline-block;
     vertical-align:top;
@@ -54,7 +54,7 @@ nav a.menu-0-sele{
 }
 
 nav a.menu-1{
-    width:98.34%;
+    width:98.35%;
     height:auto;
     display:inline-block;
     vertical-align:top;
@@ -68,7 +68,7 @@ nav a.menu-1{
     border:0.5rem solid #009900;
 }
 nav a.menu-1-sele{
-    width:98.34%;
+    width:98.35%;
     height:auto;
     display:inline-block;
     vertical-align:top;
@@ -92,14 +92,14 @@ main{ display:inline-block; vertical-align:top; }
 
 /* FOOTER */
 footer{
-    width:97.5%;
+    width:97.7%;
     height:100%;
     background-color:#05af05;
     color:#f9f9f9;
     font-size:1.6rem;
     padding-top:1.6%;
     padding-bottom:1.2%;
-    padding-right:2.4%;
+    padding-right:2.2%;
     text-align:right;
     margin-top:3.3%;
 }
