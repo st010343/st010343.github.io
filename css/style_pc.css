@@ -34,7 +34,7 @@ nav a.menu-0{
     padding-left:8%;
     text-align:left;
     margin-bottom:6%;
-    border:0.5rem solid #009900;
+    border:0.5rem outset #009900;
 }
 nav a.menu-0-sele{
     width:88%;
@@ -48,11 +48,12 @@ nav a.menu-0-sele{
     padding-left:8%;
     text-align:left;
     margin-bottom:6%;
-    border:0.5rem solid #009900;
+    border:0.5rem outset #009900;
 }nav a.menu-0-sele:hover{
     cursor:pointer;
     text-decoration:none;
     background-color:#11bb11;
+    border:0.5rem inset #009900;
 }
 
 nav a.menu-1{
@@ -68,7 +69,7 @@ nav a.menu-1{
     padding-left:8%;
     text-align:left;
     margin-bottom:6%;
-    border:0.5rem solid #009900;
+    border:0.5rem outset #009900;
 }
 nav a.menu-1-sele{
     width:88%;
@@ -82,11 +83,12 @@ nav a.menu-1-sele{
     padding-left:8%;
     text-align:left;
     margin-bottom:6%;
-    border:0.5rem solid #009900;
+    border:0.5rem outset #009900;
 }nav a.menu-1-sele:hover{
     cursor:pointer;
     text-decoration:none;
     background-color:#66cc66;
+    border:0.5rem inset #009900;
 }
 
 
@@ -157,6 +159,8 @@ html{ font-size:62.5%; font-family:sans-serif; }
 * p{ font-size:1.6rem; }
 * a{ font-size:1.6rem; }
 * li{ font-size:1.6rem; }
+* ol{ font-size:1.6rem; }
+* ul{ font-size:1.6rem; }
 
 /* DEFAULT IMG-SIZE */
 img{ width:100%; }
