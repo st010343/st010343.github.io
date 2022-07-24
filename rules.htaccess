@@ -1,5 +1,5 @@
 #url表記の正規化
-<ifmodule mod_rewrite.c>
+<IfModule mod_rewrite.c>
 RewriteEngine On
 
 RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
@@ -10,3 +10,4 @@ RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
 
 RewriteCond %{THE_REQUEST} ^.*/index.html
 RewriteRule ^(.*)index.html$ https://st010343.github.io/$1 [R=301,L]
+</IfModule>
