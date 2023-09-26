@@ -123,6 +123,39 @@ footer div.footerContents{
 }
 
 
+
+/* MENU */
+.menu-push{
+    width:66%;
+    height:auto;
+    display:inline-block;
+    vertical-align:top;
+    background-color:#8dd899;
+    position:relative;
+    color:#000000;
+    text-align:center;
+    margin-bottom:4%;
+    left:50%;
+    transform:translateX(-50%);
+}
+.menu-push-sele{
+    width:66%;
+    height:auto;
+    display:inline-block;
+    vertical-align:top;
+    background-color:#8dd899;
+    position:relative;
+    color:#000000;
+    text-align:center;
+    margin-bottom:4%;
+    left:50%;
+    transform:translateX(-50%);
+}.menu-push-sele:hover{
+    cursor:pointer;
+    text-decoration:none;
+    background-color:#6aa677;
+}
+
 /* SENTENCE */
 .sentence-c_l{
     width:100%;
